@@ -1,0 +1,1 @@
+// Halaman untuk daftar cerita favorit

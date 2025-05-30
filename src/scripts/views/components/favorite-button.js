@@ -1,0 +1,1 @@
+// Komponen tombol favorit pada halaman detail
